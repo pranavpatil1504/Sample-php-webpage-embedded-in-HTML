@@ -1,7 +1,6 @@
 ## Download XAMPP from google chrome:
-```bash
-https://www.apachefriends.org/
-```
+## https://www.apachefriends.org/
+
 ## Follow the following Steps during Installation:
 1. Accept the policies and formalities during the Installation.
 2. Turn on the Servers of Apache and MySQL.
